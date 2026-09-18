@@ -1,7 +1,7 @@
 # Assistência Simplificada — Atualizações oficiais
 
 <p align="center">
-  <img src="assets/screenshots/painel-principal.webp" alt="Painel principal da Assistência Simplificada 1.2.0, com dados fictícios" width="760">
+  <img src="assets/screenshots/painel-principal.webp" alt="Painel principal da Assistência Simplificada 1.3.0, com dados fictícios" width="760">
 </p>
 
 <p align="center"><strong>O aplicativo Windows para organizar atendimentos, aparelhos, peças e a operação da assistência em um só lugar.</strong></p>
@@ -41,7 +41,7 @@
 
 ## Versão atual
 
-A release atual é a **1.2.0**. As próximas versões seguem `1.3.0` até `1.9.0`; depois seguem para `2.0.0`. Cada release estável usa o formato `MAIOR.MENOR.0`.
+A release atual é a **1.3.0**. As próximas versões seguem `1.4.0` até `1.9.0`; depois seguem para `2.0.0`. Cada release estável usa o formato `MAIOR.MENOR.0`.
 
 ## Suporte e links
 
@@ -53,3 +53,10 @@ A release atual é a **1.2.0**. As próximas versões seguem `1.3.0` até `1.9.0
 
 Antes de instalar, confira se o arquivo foi baixado desta página de releases. Cada publicação inclui o instalador, manifesto de atualização assinado e hashes de verificação. Nunca publique nem envie backups, bancos de dados, chaves de ativação ou senhas neste repositório.
 
+## 1.3.0 em destaque
+
+- Estoque opcional de peças integrado aos serviços, com reserva, baixa ao iniciar a manutenção e reposição ao cancelar antes da instalação.
+- Agenda com aprovações, retiradas e anotações vinculadas; os avisos levam diretamente ao assunto relacionado.
+- Links de cliente e técnico com nome da loja, acesso pelos últimos quatro dígitos do telefone, fotos adicionadas depois do orçamento e contraste revisado.
+- Avaliação após a retirada, média da loja no painel e documentos mais claros sobre a opção de serviço aprovada e a retirada.
+- Regras de licença e retenção exibidas no aplicativo e no manual: até 2 dias offline, 7 dias de recuperação após licença paga vencida e 2 dias para licença de teste.
