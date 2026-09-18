@@ -2,7 +2,7 @@
 
 > Manual operacional atualizado para a linha atual do aplicativo Windows. Veja também as [releases oficiais](../../releases/latest).
 
-As imagens abaixo foram feitas com a versão **1.2.0** e dados fictícios.
+As imagens abaixo foram feitas com a versão **1.3.0** e dados fictícios.
 
 ![Painel principal](assets/screenshots/painel-principal.webp)
 
@@ -31,7 +31,7 @@ Em serviços cancelados sem cobrança, a retirada pode ser registrada sem exigir
 
 ![Estoque de peças dentro de Pesquisa de peças](assets/screenshots/estoque-pecas.webp)
 
-Abra **Procurar peças → Estoque** para cadastrar telas, baterias, conectores e outros itens. Informe aparelho compatível, descrição, custo, preço sugerido e quantidade.
+Abra **Peças → Estoque** para cadastrar telas, baterias, conectores e outros itens. Informe aparelho compatível, descrição, custo, preço sugerido e quantidade.
 
 - O estoque é um apoio: é possível criar e concluir orçamento mesmo sem peça cadastrada.
 - Ao incluir um serviço compatível, o orçamento informa que há uma peça disponível.
@@ -79,7 +79,7 @@ Quando uma licença paga vence, as **cópias operacionais na nuvem** ficam dispo
 
 ## 10. Atualizações oficiais
 
-Use apenas as releases deste repositório ou o botão do aplicativo. Cada pacote oficial inclui validações de integridade. A versão atual é `1.2.0`; a sequência estável segue até `1.9.0` e depois `2.0.0`. Versões estáveis não usam correção diferente de zero. Quem usa uma versão antiga da série 9.x deve baixar e instalar a nova série 1.x pelo site oficial.
+Use apenas as releases deste repositório ou o botão do aplicativo. Cada pacote oficial inclui validações de integridade. A versão atual é `1.3.0`; a sequência estável segue até `1.9.0` e depois `2.0.0`. Versões estáveis não usam correção diferente de zero. Quem usa uma versão antiga da série 9.x deve baixar e instalar a nova série 1.x pelo site oficial.
 
 ## Boas práticas
 
