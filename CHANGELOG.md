@@ -1,5 +1,13 @@
 # Histórico de distribuição
 
+## 1.3.0 — atendimento, agenda e links mais claros
+
+- Estoque de peças opcional integrado aos serviços do orçamento.
+- Agenda com aprovações, retiradas, anotações e alertas que levam ao assunto correto.
+- Links de cliente e técnico com nome da loja, contraste revisado e sincronização de fotos adicionadas depois.
+- Avaliações pós-retirada, média da loja no painel e documentos de retirada aprimorados.
+- Política de licença e retenção atualizada e exibida no aplicativo e no manual.
+
 ## 1.2.0 — validação de licenças e documentação
 
 - Corrige a comparação da versão mínima da licença ao migrar da série 9.x para 1.x.
