@@ -75,7 +75,7 @@ Para restaurar, abra a mesma central, escolha o arquivo de backup e confira a pr
 
 A ativação inicial exige internet. Depois disso, o aplicativo pode funcionar offline por até **2 dias** dentro de uma licença válida. A conexão periódica confirma a licença; manter a internet ligada apenas para reiniciar o prazo não substitui essa validação.
 
-Quando uma licença comum vence, os dados da loja entram em retenção para recuperação por **7 dias**. Em licença de teste, a exclusão ocorre **2 dias** após o fim do teste. Faça backup antes do vencimento se precisar guardar os dados fora do período de retenção.
+Quando uma licença paga vence, as **cópias operacionais na nuvem** ficam disponíveis para recuperação por **7 dias corridos**; sem renovação, são excluídas definitivamente. Em licença de teste, a exclusão dessas cópias na nuvem ocorre **2 dias após o vencimento**. O banco e os backups já existentes no computador não são apagados por esses prazos. Faça uma cópia externa antes do vencimento para preservar seus dados caso precise restaurá-los depois.
 
 ## 10. Atualizações oficiais
 
