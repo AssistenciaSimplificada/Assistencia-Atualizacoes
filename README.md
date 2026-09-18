@@ -41,7 +41,7 @@
 
 ## Versão atual
 
-A release atual é a **9.5.5**. A próxima linha de distribuição passará a usar `1.1.0`, `1.2.0` até `1.9.0`; depois seguirá para `2.0.0`. Cada release estável usa o formato `MAIOR.MENOR.0`.
+A release atual é a **1.1.0**. As próximas versões seguem `1.2.0` até `1.9.0`; depois seguem para `2.0.0`. Cada release estável usa o formato `MAIOR.MENOR.0`.
 
 ## Suporte e links
 
@@ -52,3 +52,4 @@ A release atual é a **9.5.5**. A próxima linha de distribuição passará a us
 ## Segurança da distribuição
 
 Antes de instalar, confira se o arquivo foi baixado desta página de releases. Cada publicação inclui o instalador, manifesto de atualização assinado e hashes de verificação. Nunca publique nem envie backups, bancos de dados, chaves de ativação ou senhas neste repositório.
+
