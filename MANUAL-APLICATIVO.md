@@ -2,7 +2,9 @@
 
 > Manual operacional atualizado para a linha atual do aplicativo Windows. Veja também as [releases oficiais](../../releases/latest).
 
-![Painel principal](assets/screenshots/painel-principal.png)
+As imagens abaixo foram feitas com a versão **1.2.0** e dados fictícios.
+
+![Painel principal](assets/screenshots/painel-principal.webp)
 
 ## 1. Primeiro acesso
 
@@ -15,7 +17,7 @@ A senha é solicitada no login. As ações internas usam confirmações visuais 
 
 ## 2. Orçamentos e atendimentos
 
-![Novo orçamento](assets/screenshots/novo-orcamento.png)
+![Novo orçamento](assets/screenshots/novo-orcamento.webp)
 
 Em **Atendimentos**, registre o cliente, aparelho, defeito, serviços, prazo e condição de pagamento. O status padrão de serviço é **Reparo com peça**. Mensagens salvas em cada status podem ser reutilizadas, sem alterar o padrão dos próximos orçamentos.
 
@@ -27,13 +29,13 @@ Em serviços cancelados sem cobrança, a retirada pode ser registrada sem exigir
 
 ## 3. Estoque de peças
 
-![Estoque de peças](assets/screenshots/estoque-pecas.png)
+![Estoque de peças dentro de Pesquisa de peças](assets/screenshots/estoque-pecas.webp)
 
 Abra **Procurar peças → Estoque** para cadastrar telas, baterias, conectores e outros itens. Informe aparelho compatível, descrição, custo, preço sugerido e quantidade.
 
 - O estoque é um apoio: é possível criar e concluir orçamento mesmo sem peça cadastrada.
 - Ao incluir um serviço compatível, o orçamento informa que há uma peça disponível.
-- A baixa ocorre quando a manutenção é concluída.
+- A peça escolhida é reservada ao salvar o orçamento. A baixa ocorre quando a manutenção começa.
 - Se um orçamento que entrou em manutenção for cancelado, a peça pode ser reposta porque não foi instalada.
 - Vendas de aparelhos usados não são classificadas como venda sob encomenda.
 
@@ -77,7 +79,7 @@ Quando uma licença comum vence, os dados da loja entram em retenção para recu
 
 ## 10. Atualizações oficiais
 
-Use apenas as releases deste repositório ou o botão do aplicativo. Cada pacote oficial inclui validações de integridade. A sequência estável será `1.1.0` até `1.9.0`, depois `2.0.0`; versões estáveis não usam correção diferente de zero.
+Use apenas as releases deste repositório ou o botão do aplicativo. Cada pacote oficial inclui validações de integridade. A versão atual é `1.2.0`; a sequência estável segue até `1.9.0` e depois `2.0.0`. Versões estáveis não usam correção diferente de zero. Quem usa uma versão antiga da série 9.x deve baixar e instalar a nova série 1.x pelo site oficial.
 
 ## Boas práticas
 

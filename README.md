@@ -1,7 +1,7 @@
 # Assistência Simplificada — Atualizações oficiais
 
 <p align="center">
-  <img src="assets/screenshots/painel-principal.png" alt="Painel principal da Assistência Simplificada" width="760">
+  <img src="assets/screenshots/painel-principal.webp" alt="Painel principal da Assistência Simplificada 1.2.0, com dados fictícios" width="760">
 </p>
 
 <p align="center"><strong>O aplicativo Windows para organizar atendimentos, aparelhos, peças e a operação da assistência em um só lugar.</strong></p>
@@ -24,7 +24,7 @@
 
 - **Orçamentos completos:** cliente, aparelho, serviços, alternativas de peça, desconto, entrada, técnico, prazo, status e histórico.
 - **Aprovação clara:** serviços e peças aprovados ficam identificados no atendimento e nos documentos.
-- **Estoque de peças opcional:** cadastre telas, baterias e demais itens; o orçamento informa a disponibilidade e baixa a peça somente quando o serviço é concluído. Um cancelamento após o início da manutenção pode repor a peça.
+- **Estoque de peças opcional:** cadastre telas, baterias e demais itens; o orçamento informa a disponibilidade, reserva a peça selecionada e a baixa ao iniciar a manutenção. O cancelamento do orçamento devolve a peça ao estoque.
 - **Vitrine e vendas:** catálogo de aparelhos, filtros de memória/RAM, itens à pronta entrega ou sob encomenda e compartilhamento de preços.
 - **Agenda e lembretes:** datas de aprovação, entrega e anotações vinculadas; avisos podem abrir diretamente o assunto relacionado.
 - **Links de atendimento:** cliente acompanha o serviço e avalia o atendimento; o técnico recebe convite temporário para diagnóstico e resposta.
@@ -41,7 +41,7 @@
 
 ## Versão atual
 
-A release atual é a **1.1.0**. As próximas versões seguem `1.2.0` até `1.9.0`; depois seguem para `2.0.0`. Cada release estável usa o formato `MAIOR.MENOR.0`.
+A release atual é a **1.2.0**. As próximas versões seguem `1.3.0` até `1.9.0`; depois seguem para `2.0.0`. Cada release estável usa o formato `MAIOR.MENOR.0`.
 
 ## Suporte e links
 
