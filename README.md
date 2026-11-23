@@ -41,7 +41,7 @@
 
 ## Versão atual
 
-A release atual é a **1.3.0**. As próximas versões seguem `1.4.0` até `1.9.0`; depois seguem para `2.0.0`. Cada release estável usa o formato `MAIOR.MENOR.0`.
+A release atual é a **[13.2.7](https://github.com/AssistenciaSimplificada/Assistencia-Atualizacoes/releases/tag/v13.2.7)**, para Windows 10 e 11 de 64 bits.
 
 ## Suporte e links
 
@@ -53,10 +53,12 @@ A release atual é a **1.3.0**. As próximas versões seguem `1.4.0` até `1.9.0
 
 Antes de instalar, confira se o arquivo foi baixado desta página de releases. Cada publicação inclui o instalador, manifesto de atualização assinado e hashes de verificação. Nunca publique nem envie backups, bancos de dados, chaves de ativação ou senhas neste repositório.
 
-## 1.3.0 em destaque
+## 13.2.7 em destaque
 
-- Estoque opcional de peças integrado aos serviços, com reserva, baixa ao iniciar a manutenção e reposição ao cancelar antes da instalação.
-- Agenda com aprovações, retiradas e anotações vinculadas; os avisos levam diretamente ao assunto relacionado.
-- Links de cliente e técnico com nome da loja, acesso pelos últimos quatro dígitos do telefone, fotos adicionadas depois do orçamento e contraste revisado.
-- Avaliação após a retirada, média da loja no painel e documentos mais claros sobre a opção de serviço aprovada e a retirada.
-- Regras de licença e retenção exibidas no aplicativo e no manual: até 2 dias offline, 7 dias de recuperação após licença paga vencida e 2 dias para licença de teste.
+- Em Nova entrada, salve o anúncio e volte ao cadastro. A sincronização com a vitrine segue em segundo plano.
+- Filtre Entradas por status e informe preço e IMEI ao liberar uma unidade para venda.
+- Use descrições de até 1.600 caracteres, ações rápidas nos anúncios e avisos de solicitações no app.
+- O editor de preços agrupa unidades novas equivalentes. A vitrine mostra o valor base para PayJoy quando habilitada.
+- Consulte os aparelhos novos mais vendidos no mês e em todo o histórico de vendas.
+- Prepare a via do cliente antes de abrir o WhatsApp, em qualquer forma de assinatura.
+- Confira a próxima ação em Garantias e as listas atualizadas de compatibilidade de capinhas e películas.

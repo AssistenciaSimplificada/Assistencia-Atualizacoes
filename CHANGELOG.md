@@ -1,5 +1,17 @@
 # Histórico de distribuição
 
+## 13.2.7 — vitrine, aparelhos e garantias
+
+- Em Nova entrada, salve o anúncio e volte ao cadastro. A sincronização com a vitrine segue em segundo plano.
+- Filtre Entradas por status e informe preço e IMEI ao liberar uma unidade para venda.
+- Use descrições de até 1.600 caracteres, ações rápidas nos anúncios e avisos de solicitações no app.
+- O editor de preços agrupa unidades novas equivalentes. A vitrine mostra o valor base para PayJoy quando habilitada.
+- Consulte os aparelhos novos mais vendidos no mês e em todo o histórico de vendas.
+- Prepare a via do cliente antes de abrir o WhatsApp, em qualquer forma de assinatura.
+- Confira a próxima ação em Garantias e as listas atualizadas de compatibilidade de capinhas e películas.
+
+[Release 13.2.7](https://github.com/AssistenciaSimplificada/Assistencia-Atualizacoes/releases/tag/v13.2.7).
+
 ## 1.3.0 — atendimento, agenda e links mais claros
 
 - Estoque de peças opcional integrado aos serviços do orçamento.
@@ -24,6 +36,6 @@
 - Inclui orçamento, agenda, lembretes, estoque de peças, links de cliente e técnico, avaliação, PDFs, backup e licença.
 - Esta foi a última publicação da sequência 9.x.
 
-## Próxima sequência
+## Sequência histórica da série 1.x
 
-As versões estáveis seguem `1.1.0` até `1.9.0`; em seguida, `2.0.0`. Todas usam o formato `MAIOR.MENOR.0`.
+Nessa série, as versões estáveis seguiam `1.1.0` até `1.9.0`; em seguida, `2.0.0`. Todas usam o formato `MAIOR.MENOR.0`.

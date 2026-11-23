@@ -6,6 +6,18 @@ As imagens abaixo foram feitas com a versão **1.3.0** e dados fictícios.
 
 ![Painel principal](assets/screenshots/painel-principal.webp)
 
+## Novidades da versão 13.2.7
+
+- Em Nova entrada, salve o anúncio e volte ao cadastro. A sincronização com a vitrine segue em segundo plano.
+- Filtre Entradas por status e informe preço e IMEI ao liberar uma unidade para venda.
+- Use descrições de até 1.600 caracteres, ações rápidas nos anúncios e avisos de solicitações no app.
+- O editor de preços agrupa unidades novas equivalentes. A vitrine mostra o valor base para PayJoy quando habilitada.
+- Consulte os aparelhos novos mais vendidos no mês e em todo o histórico de vendas.
+- Prepare a via do cliente antes de abrir o WhatsApp, em qualquer forma de assinatura.
+- Confira a próxima ação em Garantias e as listas atualizadas de compatibilidade de capinhas e películas.
+
+No WhatsApp, anexe o PDF preparado pelo app e confirme o envio. Para atualizar o ranking da vitrine, sincronize o computador da loja após instalar a versão 13.2.7.
+
 ## 1. Primeiro acesso
 
 1. Instale a versão baixada nas releases oficiais em um computador com Windows 10 ou 11 de 64 bits.
